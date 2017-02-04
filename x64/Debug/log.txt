@@ -1,0 +1,168 @@
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 00:32:14
+
+[00:32:15] : Stared
+[00:32:17] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 00:32:30
+
+[00:32:30] : Stared
+[00:32:44] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 11:00:52
+
+[11:00:53] : Stared
+[11:01:03] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 14:09:51
+
+[14:09:52] : Stared
+[14:10:38] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 14:12:21
+
+[14:12:22] : Stared
+[14:12:31] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 14:13:35
+
+[14:13:36] : Stared
+[14:13:42] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 14:13:56
+
+[14:13:57] : Stared
+[14:14:03] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 16:04:03
+
+[16:04:04] : Stared
+[16:04:05] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 16/12/2015
+Time: 16:04:21
+
+[16:04:22] : Stared
+[16:04:35] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 18/12/2015
+Time: 09:31:51
+
+[09:31:52] : Stared
+[09:31:53] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 21/12/2015
+Time: 11:10:26
+
+[11:10:27] : Stared
+[11:10:32] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 21/12/2015
+Time: 12:02:52
+
+[12:02:53] : Stared
+[12:03:19] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 09:15:31
+
+[09:15:31] : Stared
+[09:15:51] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 09:18:43
+
+[09:18:43] : Stared
+[09:18:45] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 19:57:36
+
+[19:57:36] : Stared
+[19:57:45] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 20:15:03
+
+[20:15:03] : Stared
+[20:15:26] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 20:16:11
+
+[20:16:11] : Stared
+[20:16:18] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 20:17:04
+
+[20:17:05] : Stared
+[20:17:07] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 22/12/2015
+Time: 20:18:03
+
+[20:18:04] : Stared
+[20:18:14] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 29/12/2015
+Time: 12:02:03
+
+[12:02:04] : Stared
+[12:02:07] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 29/12/2015
+Time: 12:02:11
+
+[12:02:12] : Stared
+[12:02:22] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 28/01/2016
+Time: 14:29:31
+
+[14:29:32] : Stared
+[14:29:37] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 28/01/2016
+Time: 14:38:51
+
+[14:38:52] : Stared
+[14:38:54] : Ended
+RawRender Log File - Copyright (c) Rodrigo Marques
+Version: 0.1.1.2
+Date: 05/11/2016
+Time: 18:39:13
+
+[18:39:14] : Stared
+[18:39:19] : Ended
